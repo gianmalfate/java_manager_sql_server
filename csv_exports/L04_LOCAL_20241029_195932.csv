@@ -1,0 +1,11 @@
+ID,NOME,TIPO,CAPACIDADE,PAIS
+1,Estádio do Maracanã,ESTADIO,78.838,Brasil
+2,Estádio Olímpico de Sydney,ESTADIO,83.500,Austrália
+3,Estádio Nacional de Pequim,ESTADIO,80.000,China
+4,Estádio Olímpico de Londres,ESTADIO,66.000,Reino Unido
+5,Tokyo Dome,GINASIO,55.000,Japão
+6,Arena O2,GINASIO,20.000,Reino Unido
+7,Arena Carioca 1,GINASIO,16.000,Brasil
+9,Centro Aquático Nacional,PISCINA,17.000,China
+10,Centro Aquático Maria Lenk,PISCINA,6.000,Brasil
+14,Centro Nacional,ESTADIO,17.000,Brasil
