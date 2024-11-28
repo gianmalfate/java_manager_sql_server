@@ -1,7 +1,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="https://cdn-icons-png.flaticon.com/256/5968/5968364.png" alt="Logo" width="80" height="80">
+    <img src="https://cdn-icons-png.flaticon.com/256/9544/9544010.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Sistema de Gestão de Dados das Olimpíadas - Banco de Dados em SQL Server e Interface em Java</h3>
