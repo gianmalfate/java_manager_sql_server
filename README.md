@@ -7,7 +7,7 @@
   <h3 align="center">Sistema de Gestão de Dados das Olimpíadas - Banco de Dados em SQL Server e Interface em Java</h3>
 
   <p align="center">
-    Este projeto visa o desenvolvimento de um sistema de gestão de dados relacionados às Olimpíadas, utilizando **Microsoft SQL Server** como banco de dados e **Java** para a interface de gestão. O objetivo é proporcionar uma plataforma eficiente para armazenar, consultar e manipular dados históricos das Olimpíadas, como resultados de disputas, medalhas conquistadas, dados de atletas, países participantes, entre outros.
+    Este projeto visa o desenvolvimento de um sistema de gestão de dados relacionados às Olimpíadas, utilizando <strong>Microsoft SQL Server</strong> como banco de dados e <strong>Java</strong> para a interface de gestão. O objetivo é proporcionar uma plataforma eficiente para armazenar, consultar e manipular dados históricos das Olimpíadas, como resultados de disputas, medalhas conquistadas, dados de atletas, países participantes, entre outros.
 
 A aplicação Java oferece uma interface gráfica onde os usuários podem visualizar e interagir com os dados das Olimpíadas, realizando consultas e atualizações diretamente no banco de dados.
   </p>
